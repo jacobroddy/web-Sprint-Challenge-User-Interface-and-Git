@@ -32,15 +32,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? --- Semantic html is html attributes that clearly define what the element is going to show on the screen.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between ```display: block;``` and ```display: inline;```. --- Display block and display inline are differnet because display block takes up a full row in our html, display inline is positioned in row without knocking any content to the next row. Display block includes <div> and <section>, display inline is <span>
 
-3. What are the 4 areas of the box model?
+3. What are the 4 areas of the box model? --- Content, Padding, Border, Margin.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+4. While using flexbox, what axis does the following property work on: ```align-items: center```? --- Cross axis, opposed to main axis.
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers. --- Git allows us to fork and branch projects so we can share and update code as needed.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -94,6 +94,12 @@ You will also notice there are 10 boxes on the home page that need background co
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
 Note: Please make sure you are using flexbox to layout your website. Floats, inline-block, tables, etc, should not be used for layout. 
+
+https://codepen.io/puzzleclick/full/gOWwOey
+https://codepen.io/puzzleclick/full/oNWzXre
+
+I attached both the home and about pages above^, the links to each should work on the page.
+
 
 ## Stretch Problems
 
